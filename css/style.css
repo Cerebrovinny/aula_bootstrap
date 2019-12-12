@@ -1,3 +1,8 @@
+
+body{
+    font: 20px, sans-serif;
+}
+
 .navbar {
     background-color: #541783
 }
@@ -7,6 +12,5 @@
 }
 
 .margin {
-    padding-top: 50px;
     padding-bottom: 50px;
 }
